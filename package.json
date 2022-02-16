@@ -1,0 +1,17 @@
+{
+  "name": "blog_personal",
+  "version": "1.0.0",
+  "description": "Aqui construyo mi blog personal",
+  "main": " src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Javascript",
+    "Blogpost"
+  ],
+  "author": "Luis Ariza <luismanuelariza@hotmail.com>",
+  "license": "MIT"
+}
